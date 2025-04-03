@@ -1,0 +1,1 @@
+In this project, I used Power BI to analyze Ola's performance for the month of July. The dashboard has five pages that dive into different aspects of the business, offering insights that could help improve operations and customer experience.
